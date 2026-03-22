@@ -1,5 +1,5 @@
 # Human-Action-Recognition-using-3D-CNN
-Mini project on Human Action Recognition using 3D CNN. The model captures spatial and temporal features from video frames to classify different human actions. Useful in applications like surveillance, gesture recognition, and human-computer interaction.
+Human Action Recognition using 3D CNN. The model captures spatial and temporal features from video frames to classify different human actions. Useful in applications like surveillance, gesture recognition, and human-computer interaction.
 ## 📌 Project Overview
 This mini project implements **Human Action Recognition** using **MediaPipe** and **OpenCV**. The system tracks hand gestures from webcam input in real-time and classifies predefined gestures such as **Thumbs Up**, **OK**, **Peace Sign**, **Fist**, and **Good/Nice**.
 
