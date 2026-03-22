@@ -26,13 +26,7 @@ The full documentation and detailed explanations of the algorithms used can be f
 - **Image capture**: Press the `c` key to capture and save the image of the recognized gesture.  
 - **Quit**: Press `q` to quit the webcam feed.
 
-## ⏯️ How to Run
-### Prerequisites:
-1. **Install Python dependencies**: You need Python 3.x installed on your system. Install the required packages by running the following command:
-   ```bash
+
    
    pip install opencv-python mediapipe numpy
-## Developed By##
-Mahalakshmi R
-B.Tech in Artificial Intelligence & Data Science
-Ramco Institute of Technology
+
